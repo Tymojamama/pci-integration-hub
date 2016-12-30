@@ -1,0 +1,19 @@
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\Data Integration Hub Management Solution.exe.config
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\Data Integration Hub Management Solution.exe
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\Data Integration Hub Management Solution.pdb
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\DataIntegrationHub.Business.dll
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\PensionConsultants.Data.dll
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\DataIntegrationHub.Business.pdb
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\PensionConsultants.Data.pdb
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\Data Integration Hub Management Solution.csprojResolveAssemblyReference.cache
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\Data Integration Hub Management Solution.csproj.GenerateResource.Cache
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\Data Integration Hub Management Solution.exe
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\Data Integration Hub Management Solution.pdb
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\DataIntegrationHub.UI.Properties.Resources.resources
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\DataIntegrationHub.UI.Forms.frmMain.resources
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\DataIntegrationHub.UI.Forms.frmSecurityRole.resources
+c:\users\zallen\documents\visual studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\DataIntegrationHub.UI.Forms.frmUserSecurityRole.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\Data Integration Hub Management Solution.exe.manifest
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\Data Integration Hub Management Solution.application
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\Data Integration Hub Management Solution.exe.manifest
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\Data Integration Hub Management Solution.application

@@ -1,0 +1,22 @@
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\bin\Debug\DIH Management Solution.exe.config
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\DIH Management Solution.exe
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\Data Integration Hub Management Solution\Data Integration Hub Management Solution\obj\Debug\DIH Management Solution.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\DIH Management Solution.exe.config
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\DIH Management Solution.exe
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\DIH Management Solution.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\integration-hub.web.csprojResolveAssemblyReference.cache
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\DataIntegrationHub.UI.Forms.frmMain.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\DataIntegrationHub.UI.Forms.frmUserSecurityRole.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\DataIntegrationHub.UI.Forms.frmSecurityRole.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\DataIntegrationHub.UI.Properties.Resources.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\integration-hub.web.csproj.GenerateResource.Cache
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\DIH Management Solution.exe.manifest
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\DIH Management Solution.application
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\DIH Management Solution.exe
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\DIH Management Solution.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\DataIntegrationHub.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\PensionConsultants.Data.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\DataIntegrationHub.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\bin\Debug\PensionConsultants.Data.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\DIH Management Solution.exe.manifest
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.web\obj\Debug\DIH Management Solution.application

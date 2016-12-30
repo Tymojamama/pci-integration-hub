@@ -1,0 +1,12 @@
+c:\users\zallen\documents\visual studio 2013\Projects\DataIntegrationHub.Business\DataIntegrationHub.Business\bin\Debug\DataIntegrationHub.Business.dll
+c:\users\zallen\documents\visual studio 2013\Projects\DataIntegrationHub.Business\DataIntegrationHub.Business\bin\Debug\DataIntegrationHub.Business.pdb
+c:\users\zallen\documents\visual studio 2013\Projects\DataIntegrationHub.Business\DataIntegrationHub.Business\bin\Debug\TicketTracker.Data.dll
+c:\users\zallen\documents\visual studio 2013\Projects\DataIntegrationHub.Business\DataIntegrationHub.Business\bin\Debug\TicketTracker.Data.pdb
+c:\users\zallen\documents\visual studio 2013\Projects\DataIntegrationHub.Business\DataIntegrationHub.Business\bin\Debug\DataIntegrationHub.Business.dll.CodeAnalysisLog.xml
+c:\users\zallen\documents\visual studio 2013\Projects\DataIntegrationHub.Business\DataIntegrationHub.Business\bin\Debug\DataIntegrationHub.Business.dll.lastcodeanalysissucceeded
+\\PC03\Common Ground\IT\Services\DataIntegrationHub.Business.dll
+\\PC03\Common Ground\IT\Services\DataIntegrationHub.Business.pdb
+\\PC03\Common Ground\IT\Libraries\DataIntegrationHub.Business.dll
+\\PC03\Common Ground\IT\Libraries\DataIntegrationHub.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\DataIntegrationHub.Business\DataIntegrationHub.Business\obj\Debug\DataIntegrationHub.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\DataIntegrationHub.Business\DataIntegrationHub.Business\obj\Debug\DataIntegrationHub.Business.pdb
