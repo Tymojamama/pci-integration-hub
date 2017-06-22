@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataIntegrationHub.Business.dll" size="29184">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataIntegrationHub.Business.dll" size="32256">
       <assemblyIdentity name="DataIntegrationHub.Business" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>u2CJ7QRwntA7Uhs7dwuSLxsjWzdbu/AJjYLI2T9iMtE=</dsig:DigestValue>
+        <dsig:DigestValue>b5EzQLu9YsjwjcbIOU1tJ92wPAOLCoxaAU1BFYvTjKo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Qyo6K3EdiloMCSF5WqCE5dna46IkgvcT90IRrk55ch8=</dsig:DigestValue>
+        <dsig:DigestValue>2pEzBu5LCiHK+WQGHEsgjzZGzZiuLivFqhwryXWpFO8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

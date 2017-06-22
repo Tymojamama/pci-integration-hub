@@ -16,9 +16,9 @@ namespace DataIntegrationHub.Business.Entities
         #region PublicMembers
 
         public Guid CustomerId { get; private set; }
-        public Guid PrimaryContactId { get; private set; }
         public Guid ModifiedBy { get; private set; }
         public Guid CreatedBy { get; private set; }
+        public Guid? PrimaryContactId { get; private set; }
 
         public string Name { get; private set; }
         public string MainPhone { get; private set; }
@@ -50,12 +50,12 @@ namespace DataIntegrationHub.Business.Entities
             DataTable _dataTable = GetDetailsFromId();
             DataRow _dataRow = _dataTable.Rows[0];
 
-            Guid _primaryContact;
+            Guid? _primaryContact;
             Guid _modifiedBy;
             Guid _createdBy;
             DateTime _modifiedOn;
             DateTime _createdOn;
-            decimal _assetValue;
+            decimal? _assetValue;
 
             int _stateCode;
 
@@ -97,6 +97,11 @@ namespace DataIntegrationHub.Business.Entities
 
             // Execute stored procedure and return datatable result
             return Database.DataIntegrationHub.ExecuteStoredProcedureQuery("[dbo].[usp_CustomerGetDetailsFromId]", parameterList);
+        }
+
+        public static DataTable GetAll()
+        {
+            return Database.DataIntegrationHub.ExecuteStoredProcedureQuery("[dbo].[usp_CustomerGetAll]");
         }
     }
 }
