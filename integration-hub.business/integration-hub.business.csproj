@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Components\Database.cs" />
     <Compile Include="Entities\Address.cs" />
+    <Compile Include="Entities\PlanAdvisor.cs" />
+    <Compile Include="Entities\Auditor.cs" />
+    <Compile Include="Entities\RecordKeeper.cs" />
     <Compile Include="Entities\Contact.cs" />
     <Compile Include="Entities\Customer.cs" />
     <Compile Include="Entities\IDatabaseEntity.cs" />

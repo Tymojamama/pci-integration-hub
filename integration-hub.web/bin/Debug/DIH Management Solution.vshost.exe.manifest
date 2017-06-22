@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataIntegrationHub.Business.dll" size="27136">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataIntegrationHub.Business.dll" size="29184">
       <assemblyIdentity name="DataIntegrationHub.Business" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eUKuzOCoHTukrMbUrkgchpPeRVeI8Kfo5NsVO0y7r00=</dsig:DigestValue>
+        <dsig:DigestValue>u2CJ7QRwntA7Uhs7dwuSLxsjWzdbu/AJjYLI2T9iMtE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,19 +61,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>F9K0wII0JLHv759f5tl4RDxBweTcZsKPFYB1fjqsbm8=</dsig:DigestValue>
+        <dsig:DigestValue>Qyo6K3EdiloMCSF5WqCE5dna46IkgvcT90IRrk55ch8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PensionConsultants.Data.dll" size="17408">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PensionConsultants.Data.dll" size="18944">
       <assemblyIdentity name="PensionConsultants.Data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uQt2Am1hePczkDwO/PRdS4Yu4MF7k1eYZSSYze6GHX4=</dsig:DigestValue>
+        <dsig:DigestValue>psSPbsA2JXLa4VEqEusrw2sYooVgqjaYOq1wzdOaIj8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

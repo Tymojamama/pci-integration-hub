@@ -1,4 +1,6 @@
-\\PC03\Common Ground\IT\Libraries\DataIntegrationHub.Business.dll
-\\PC03\Common Ground\IT\Libraries\DataIntegrationHub.Business.pdb
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.business\obj\Debug\DataIntegrationHub.Business.dll
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\integration-hub\integration-hub.business\obj\Debug\DataIntegrationHub.Business.pdb
+\\PC03\Common Ground\IT\Libraries\DataIntegrationHub.Business.dll
+\\PC03\Common Ground\IT\Libraries\DataIntegrationHub.Business.pdb
+C:\Users\zallen\Documents\GitHub\pci-integration-hub\integration-hub.business\obj\Debug\DataIntegrationHub.Business.dll
+C:\Users\zallen\Documents\GitHub\pci-integration-hub\integration-hub.business\obj\Debug\DataIntegrationHub.Business.pdb
